@@ -1,0 +1,16 @@
+{
+    "name": "jxcore",
+    "type": "package",
+    "author": "Graham Wakefield",
+	"description": "Embedding JXCore in Max/MSP/Jitter.",
+	"version": "0.0",
+    "major_version": "0",
+    "minor_version": "0",
+    "min_max_version": "700",
+    "website": "https://github.com/grrrwaaa/max_jxcore",
+    "link_mac32": "None",
+    "link_mac64": "None",
+    "link_win32": "None",
+    "link_win64": "None",
+    "alert_text": "None"
+}
