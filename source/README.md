@@ -1,7 +1,5 @@
 # Development notes
 
-This folder holds the development source files for the Worldmaking Max package. 
-
 At present development occurs on the master branch. After the first release, a separate development branch will be used.
 
 ## Dependencies
